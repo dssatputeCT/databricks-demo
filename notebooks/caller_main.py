@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run /Workspace/Users/dnyanesh.satpute@celebaltech.com/env_utils
+# MAGIC %run /Workspace/utils/notebooks/caller_main
 
 # COMMAND ----------
 
